@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-h6hock.nuansa138.xyz/sitemap.xml
